@@ -97,6 +97,24 @@
         "doc",
         "code"
       ]
+    },
+    {
+      "login": "odmishien",
+      "name": "odmishien(Tetsuya MISHIMA)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25533384?v=4",
+      "profile": "https://www.odmishien.fun",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "ineelshah",
+      "name": "Neel Shah",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40118578?v=4",
+      "profile": "http://linkedin.com/in/ineelshah",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
